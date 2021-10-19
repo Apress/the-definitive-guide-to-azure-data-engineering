@@ -1,6 +1,6 @@
 # Apress Source Code
 
-This repository accompanies [*The Definitive Guide to Azure Data Engineering*](https://www.apress.com/9781484271810) by Rob C. L'Esteve (Apress, 2021).
+This repository accompanies [*The Definitive Guide to Azure Data Engineering*](https://www.apress.com/9781484271810) by Ron C. L'Esteve (Apress, 2021).
 
 [comment]: #cover
 ![Cover image](9781484271810.jpg)
